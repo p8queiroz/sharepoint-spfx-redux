@@ -31,7 +31,7 @@ export default class App extends React.Component<IAppProps, IAppWpState> {
     return (
       <div className={styles.app}>
         <div className="ms-Grid-row">
-          <h1>Session list SPS Doha - demo</h1>
+          <h1>List Application</h1>
         </div>
         <div className="ms-Grid-row">
           <List
